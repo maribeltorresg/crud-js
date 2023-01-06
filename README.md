@@ -1,3 +1,3 @@
 ## Proyecto CRUD con Javascript
 
-Nos permite crear un registro, modificar el registro, y eliminar el registro y se guardará en una tabla.
+Nos permite crear un registro, modificar un registro, eliminar un registro y se guardará en una tabla.
